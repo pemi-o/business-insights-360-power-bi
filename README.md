@@ -14,7 +14,7 @@ The report combines financial, customer, product, and forecasting metrics into d
 
 The full interactive Power BI report is available as a `.pbix` file through GitHub Releases.
 
-**[Download `business_insights_360.pbix`](RELEASE-LINK)**
+**[Download `business_insights_360.pbix`](https://github.com/pemi-o/business-insights-360-power-bi/releases/download/v1.0/business_insights_360.pbix)**
 
 The file is hosted as a GitHub release asset because its size exceeds GitHub's standard repository file-size limit.
 
